@@ -20,7 +20,7 @@ I received my Phd degree and Msc degree in Mathematics from [the University of B
 
 ---
 
-I received my Bsc degree in Mathematics (with Honors, First Class) in 2015 from [the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong, China.
+I received my Bsc degree in Mathematics (with Honors, First Class) in 2015 from [the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong, China. I graduated from [Morningside College (晨興書院)](https://www.morningside.cuhk.edu.hk/).
 
 ---
 
