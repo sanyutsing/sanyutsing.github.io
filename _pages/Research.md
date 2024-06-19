@@ -57,10 +57,19 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
  
  9. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [ArXiv:2312.00821](https://arxiv.org/abs/2312.00821).
 
+ 10. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, [ArXiv:2406.12320](https://arxiv.org/abs/2406.12320).
+
+
+ 
+
 
  
 ## Academic activities
 #### conferences and talks 
++ 第四届国际生物数学建模、分析与应用研讨会   @ Harbin Engineering University                                  2024/06
+
++ 非线性分析青年学术研讨会   @ Wuhan University of Technology                                              2024/06
+
 + 三亚波国际前沿论坛@清华三亚国际数学论坛                                                                     2024/01
 
 + “面向未来的复杂系统科学--交叉与融合”学者讲习班 @ IICS, Fudan University                                      2023/11
