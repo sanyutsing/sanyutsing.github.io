@@ -15,3 +15,6 @@ header:
 
 
 ![2021@UBC](/file/Pics/2021UBC.jpg  | width=100)
+
+<img src="file/Pics/2021UBC.jpg" width="200">
+
