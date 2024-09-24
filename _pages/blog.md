@@ -14,4 +14,4 @@ header:
 ## Photo gallery
 
 
-![2021@UBC](/files/Pics/2021UBC.jpg "2021@UBC")
+![2021@UBC](/file/Pics/2021UBC.jpg "2021@UBC")
