@@ -14,7 +14,10 @@ header:
 ## Photo gallery
 
 
-![2021@UBC](/file/Pics/2021UBC.jpg  | width=100)
 
+2021@UBC:
 <img src="/file/Pics/2021UBC.jpg" width="200">
+
+2022@West Lake, Hangzhou:
+<img src="/file/Pics/2022Hangzhou.jpg" width="200">
 
