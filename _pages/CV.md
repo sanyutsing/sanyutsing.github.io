@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-### My CV has been attached: [CV](/file/CV_EN.pdf), [CV（中文版）](/file/CV_CN.pdf) as 2024/02
+### My CV has been attached: [CV](/file/CV_EN.pdf), [CV（中文版）](/file/CV_CN.pdf) as 2024/09
 
 ## Working experience
 
@@ -65,6 +65,8 @@ Project on the [hyperbolic geometry](/file/hyperbolic_geometry.pdf) advised by P
 ##  Honors and awards
 
 ### Fudan University
++ Young Scientists Fund of NSFC 【青年基金】                                         2024
+
 + China Postdoctoral Science Special Fund(In-Station)    【博士后基金（站中）】         2022  
             
 + China Postdoctoral Science Fund   【博士后基金（面上）】                              2022
