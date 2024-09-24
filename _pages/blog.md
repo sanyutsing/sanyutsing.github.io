@@ -14,4 +14,4 @@ header:
 ## Photo gallery
 
 
-![2021@UBC](/file/Pics/2021UBC.jpg = 100*200)
+![2021@UBC](/file/Pics/2021UBC.jpg  =250x250)
