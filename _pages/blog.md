@@ -14,7 +14,5 @@ header:
 ## Photo gallery
 
 
-<img src="/file/Pics/2021UBC.jpg" width="200" alt="2021@UBC"> <em>logo_caption</em>
-
-<img src="/file/Pics/2022Hangzhou.jpg" width="200" alt="2022@West Lake, Hangzhou">
+<img src="/file/Pics/2021UBC.jpg" width="200" alt="2021@UBC"> <em>2021@UBC</em> <img src="/file/Pics/2022Hangzhou.jpg" width="200" alt="2022@West Lake, Hangzhou"><em>2022@West Lake</em>
 
