@@ -11,7 +11,8 @@ header:
 
 
 
-## I am not teaching in 2023-2024 term 2.
+## I am teaching a graduate class in numerical analysis in 2024-2025 term 1. The lecture notes and HW assignments are posted below.
+
 
 
 ## This is my [teaching statement.](/file/teaching_statement.pdf)
