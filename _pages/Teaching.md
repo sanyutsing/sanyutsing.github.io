@@ -14,9 +14,11 @@ header:
 ## I am teaching a graduate class in numerical analysis in 2024-2025 term 1. The lecture notes and HW assignments are posted below.
 + [EX1](/file/teaching/2024EX1.pdf); [EX2](/file/teaching/2024EX2.pdf) ; [EX3](/file/teaching/2024EX3.pdf)
 
+---
 
 ## This is my [teaching statement.](/file/teaching_statement.pdf)
 
+---
 ## Previous teaching expierences:
 
 ### I taught two tutorial classes on Linear Algebra II in 2022-2023 term 2.
