@@ -68,7 +68,7 @@ Project on the [hyperbolic geometry](/file/hyperbolic_geometry.pdf) advised by P
 
 + Young Scientists Fund of NSFC 【青年基金】                                         2024
 
-+ AI class funded by Fudan: Deep Learning Algorithm for High-Dimensional PDEs      2024
++ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs              2024
 
 + China Postdoctoral Science Special Fund(In-Station)    【博士后基金（站中）】         2022  
             
