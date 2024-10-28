@@ -2,6 +2,8 @@
 main:
   - title: "Résumé  简历"
     url: /CV/
+  - title: "Grants 基金项目"
+    url: /Grant/
   - title: "Research 研究"
     url: /Research/
   - title: "Teaching 教学"
