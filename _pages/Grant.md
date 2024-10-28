@@ -30,7 +30,6 @@ header:
 
 ##  Honors and awards
 
-***
 
 ### the University of British Columbia
 + President's Academic Excellence Initiative PhD Award                            2020, 2021
@@ -43,7 +42,7 @@ header:
 
 + Faculty of Science Graduate Award                                               2015-2017             
 
-***
+
 
 ### the Chinese University of Hong Kong
 
