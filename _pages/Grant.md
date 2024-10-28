@@ -1,3 +1,15 @@
+---
+title: "Résumé 简历"
+layout: single
+permalink: /CV/
+author_profile: true
+excerpt: 'Here is my education background and other things related'
+header:
+  overlay_image: images/Mathematics_Building_UBC_01.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+---
+
+
 ##  Honors and awards
 
 ### Fudan University
