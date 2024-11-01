@@ -28,5 +28,5 @@ I graduated from Nantong Middle School of Jiangsu Province （江苏省南通中
 
 ---
 
-I was born in1993, in Nantong City, Jiangsu Province (江苏省南通市); I can speak Mandarin, English, Cantonese and Nantong dialect fluently (FYI: There are 6 different dialects in the greater Nantong area and I can understand most of them but can only speak Nantonese, i.e. 南通话). I can also speak a little bit of hokkien (闽南话) because of my wife Catherine.
+I was born in 1993, in Nantong City, Jiangsu Province (江苏省南通市); I can speak Mandarin, English, Cantonese and Nantong dialect fluently (FYI: There are 6 different dialects in the greater Nantong area and I can understand most of them but can only speak Nantonese, i.e. 南通话). I can also speak a little bit of hokkien (闽南话) because of my wife Catherine.
 
