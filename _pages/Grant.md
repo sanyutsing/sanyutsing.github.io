@@ -13,17 +13,17 @@ header:
 
 ### Fudan University
 
-+ Young Scientists Fund of NSFC (30w)【青年基金】   \hfill[2024]
++ Young Scientists Fund of NSFC (30w)【青年基金】   \hfill 2024
 
-+ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (20w)       \hfill[2024]
++ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (20w)       \hfill 2024
 
-+ China Postdoctoral Science Special Fund(In-Station)   (18w) 【博士后基金（站中）】     [2022]{style="float:right"} 
++ China Postdoctoral Science Special Fund(In-Station)   (18w) 【博士后基金（站中）】   \hfill 2022 
             
-+ China Postdoctoral Science Fund    (8w)【博士后基金（面上）】      [2022]{style="float:right"}
++ China Postdoctoral Science Fund    (8w)【博士后基金（面上）】     \hfill 2022
 
-+ International Postdoctoral Exchange Fellowship    (40w)【博士后引进计划】      [2021]{style="float:right"}
++ International Postdoctoral Exchange Fellowship    (40w)【博士后引进计划】     \hfill 2021
 
-+ Shanghai “Super Postdoc” Incentive Plan   (20w)【上海超级博士后激励计划】       [2021]{style="float:right"}
++ Shanghai “Super Postdoc” Incentive Plan   (20w)【上海超级博士后激励计划】       \hfill 2021
 
 ---
 
