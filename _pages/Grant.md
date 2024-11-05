@@ -13,9 +13,9 @@ header:
 
 ### Fudan University
 
-+ Young Scientists Fund of NSFC (30w)【青年基金】   [2024]{style="float:right"}
++ Young Scientists Fund of NSFC (30w)【青年基金】   \hfill[2024]
 
-+ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (20w)       [2024]{style="float:right"}
++ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (20w)       \hfill[2024]
 
 + China Postdoctoral Science Special Fund(In-Station)   (18w) 【博士后基金（站中）】     [2022]{style="float:right"} 
             
