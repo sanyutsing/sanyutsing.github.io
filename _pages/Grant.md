@@ -13,8 +13,10 @@ header:
 
 ### Fudan University
 
-+ Young Scientists Fund of NSFC (**30w**)【青年基金】   2024
++ National Natural Science Foundation of China, Young Scientists Fund (**30W**)【青年基金】   2024
 
++ Natural Science Foundation of Shanghai, General Projects (**20W**)【上海科创面上】     2024
+ 
 + 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (**20w**)      2024
 
 + China Postdoctoral Science Special Fund(In-Station)   (**18w**) 【博士后基金（站中）】   2022 
