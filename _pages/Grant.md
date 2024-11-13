@@ -13,7 +13,7 @@ header:
 
 ### Fudan University
 
-+ National Natural Science Foundation of China, Young Scientists Fund (**30W**)【青年基金】   2024
++ National Natural Science Foundation of China, Young Scientists Fund (**30W**)【青年基金】   2025
 
 + Natural Science Foundation of Shanghai, General Projects (**20W**)【上海科创面上】     2024
  
