@@ -17,15 +17,15 @@ header:
 
 + Natural Science Foundation of Shanghai, General Projects (**20W**)【上海科创面上】     2024
  
-+ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (**20w**)      2024
++ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (**20W**)      2024
 
-+ China Postdoctoral Science Special Fund(In-Station)   (**18w**) 【博士后基金（站中）】   2022 
++ China Postdoctoral Science Special Fund(In-Station)   (**18W**) 【博士后基金（站中）】   2022 
             
-+ China Postdoctoral Science Fund    (**8w**)【博士后基金（面上）】     2022
++ China Postdoctoral Science Fund    (**8W**)【博士后基金（面上）】     2022
 
-+ International Postdoctoral Exchange Fellowship    (**40w**)【博士后引进计划】       2021
++ International Postdoctoral Exchange Fellowship    (**40W**)【博士后引进计划】       2021
 
-+ Shanghai “Super Postdoc” Incentive Plan   (**20w**)【上海超级博士后激励计划】       2021
++ Shanghai “Super Postdoc” Incentive Plan   (**20W**)【上海超级博士后激励计划】       2021
 
 ---
 
