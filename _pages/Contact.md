@@ -15,6 +15,10 @@ Room 406, No.5 Building, 220 Handan Road  复旦大学邯郸校区5号楼406室
 ## Personal Page 个人主页
 [https://sites.google.com/view/xycheng](https://sites.google.com/view/xycheng) This personal page is no longer updated.
 
+[https://faculty.fudan.edu.cn/%7EEjUrY3/zh_CN/index.htm](https://faculty.fudan.edu.cn/%7EEjUrY3/zh_CN/index.htm) Xinyu @ Fudan
+
+[https://iics.fudan.edu.cn/af/82/c33358a634754/page.htm](https://iics.fudan.edu.cn/af/82/c33358a634754/page.htm) Xinyu @ IICS
+
 
 ## Email
 xycheng[at]fudan[dot]edu[dot]cn
