@@ -105,6 +105,6 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 
 #### referee work
-+ I have refereed articles for publications in Physica Scripta, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations.
++ I have refereed articles for publications in Classical and Quantum Gravity, Physica Scripta, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations.
 
 
