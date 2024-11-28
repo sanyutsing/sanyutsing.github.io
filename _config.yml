@@ -163,7 +163,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - "blog.md"
+ # - "blog.md"
   - "project.md"
   - vendor
   - .asset-cache
