@@ -11,8 +11,9 @@ header:
 
 
 
-## I am teaching a graduate class in numerical analysis in 2024-2025 term 1. The lecture notes and HW assignments are posted below.
-+ [EX1](/file/teaching/2024EX1.pdf); [EX2](/file/teaching/2024EX2.pdf) ; [EX3](/file/teaching/2024EX3.pdf)
+###  I am teaching two classes in 2024-2025 term 2. 
++ Partial differential equations.
++ AI methods for solving high dimensional PDEs.
 
 ---
 
@@ -21,6 +22,9 @@ header:
 ---
 ## Previous teaching expierences:
 
+### I taught a graduate class in numerical analysis in 2024-2025 term 1. The lecture notes and HW assignments are posted below.
++ [EX1](/file/teaching/2024EX1.pdf); [EX2](/file/teaching/2024EX2.pdf) ; [EX3](/file/teaching/2024EX3.pdf)
+  
 ### I taught two tutorial classes on Linear Algebra II in 2022-2023 term 2.
 + [EX1](/file/teaching/EX1.pdf), [Ans1](/file/teaching/Ans1.pdf) ;[EX2](/file/teaching/EX2.pdf), [Ans2](/file/teaching/Ans2.pdf); [EX3](/file/teaching/EX3.pdf), [Ans3](/file/teaching/Ans3.pdf); [EX4](/file/teaching/EX4.pdf), [Ans4](/file/teaching/Ans4.pdf)
 ; [EX5](/file/teaching/EX5.pdf), [Ans5](/file/teaching/Ans5.pdf)
