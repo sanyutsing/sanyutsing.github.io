@@ -36,38 +36,31 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 9. Localization for general Helmholtz, joint with D. Li and W. Yang, J. Diff. Eqn., 393: 139-154, 2024. [pdf](/file/paper/CLY24.pdf)
 
+10. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, to appear in IMA. J. Numer. Anal, 2025.
 
 #### preprints
 
  1. Unconditionally stable exponential integrator schemes for the 2D Cahn-Hilliard equation, [arXiv:2312.15656](https://arxiv.org/abs/2312.15656).
- 
- 2. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, [preprint]. 
- 
- 3. Energy stable semi-implicit schemes for the 3D Allen-Cahn equation, [preprint].
- 
- 4. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, [preprint].
- 
- 5. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted, [arXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
 
- 6. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted, [arXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
+ 2. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted, [arXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
 
- 7. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
+ 3. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted, [arXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
+
+ 4. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
  
- 8. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
+ 5. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
  
- 9. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [arXiv:2312.00821](https://arxiv.org/abs/2312.00821).
+ 6. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [arXiv:2312.00821](https://arxiv.org/abs/2312.00821).
 
- 10. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
+ 7. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
 
- 11. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
+ 8. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
 
 
- 
 
-
- 
 ## Academic activities
 #### conferences and talks 
++ 第一届微分方程与非线性分析青年学术研讨会 （组织） @ Fudan University                                         2024/12                                   
 + 第四届国际生物数学建模、分析与应用研讨会   @ Harbin Engineering University                                  2024/06
 
 + 非线性分析青年学术研讨会   @ Wuhan University of Technology                                              2024/06
