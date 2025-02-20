@@ -12,9 +12,12 @@ header:
 
 
 ###  I am teaching two classes in 2024-2025 term 2. 
-1. Partial differential equations.
-    Lecture nots: [Part_1]().  
-2. AI methods for solving high dimensional PDEs.
+1.   Partial differential equations.
+
+     Lecture notes: [Part_1]().  
+
+
+2.  AI methods for solving high dimensional PDEs.
 
 ---
 
