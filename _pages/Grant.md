@@ -11,21 +11,25 @@ header:
 
 ## Grants
 
-### Fudan University
+### In Progress
 
-+ National Natural Science Foundation of China, Young Scientists Fund (**30W**)【青年基金】   2025
++ National Natural Science Foundation of China, Young Scientists Fund (**30W**)【青年基金】   2025-2027
 
-+ Natural Science Foundation of Shanghai, General Projects (**20W**)【上海科创面上】     2024
++ Shanghai Magnolia Talent Plan Pujiang Project, Category A (**30W**) 【白玉兰浦江】  2024-2026
+
++ Natural Science Foundation of Shanghai, General Projects (**20W**)【上海科创面上】     2024-2027
  
-+ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (**20W**)      2024
++ 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (**20W**)      2024-2025
 
-+ China Postdoctoral Science Special Fund(In-Station)   (**18W**) 【博士后基金（站中）】   2022 
+### Completed  
+
++ China Postdoctoral Science Special Fund(In-Station)   (**18W**) 【博士后基金（站中）】   2022-2023 
             
-+ China Postdoctoral Science Fund    (**8W**)【博士后基金（面上）】     2022
++ China Postdoctoral Science Fund    (**8W**)【博士后基金（面上）】     2022-2023
 
-+ International Postdoctoral Exchange Fellowship    (**40W**)【博士后引进计划】       2021
++ International Postdoctoral Exchange Fellowship    (**40W**)【博士后引进计划】       2021-2023
 
-+ Shanghai “Super Postdoc” Incentive Plan   (**20W**)【上海超级博士后激励计划】       2021
++ Shanghai “Super Postdoc” Incentive Plan   (**20W**)【上海超级博士后激励计划】       2021-2023
 
 ---
 
