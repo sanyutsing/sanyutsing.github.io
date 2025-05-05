@@ -36,7 +36,7 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 9. Localization for general Helmholtz, joint with D. Li and W. Yang, J. Diff. Eqn., 393: 139-154, 2024. [pdf](/file/paper/CLY24.pdf)
 
-10. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, to appear in IMA. J. Numer. Anal, 2025.
+10. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, to appear in IMA. J. Numer. Anal, 2025. [pdf](/file/paper/C25.pdf)
 
 #### preprints
 
