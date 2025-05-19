@@ -38,6 +38,8 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 10. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, to appear in IMA. J. Numer. Anal, 2025. [pdf](/file/paper/C25.pdf)
 
+11. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, to appear in BIT. Numer. Math, 2025. [pdf](/file/paper/C25b.pdf)
+
 #### preprints
 
  1. Unconditionally stable exponential integrator schemes for the 2D Cahn-Hilliard equation, [arXiv:2312.15656](https://arxiv.org/abs/2312.15656).
