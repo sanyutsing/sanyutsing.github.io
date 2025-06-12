@@ -30,3 +30,12 @@ I graduated from Nantong Middle School of Jiangsu Province （江苏省南通中
 
 I was born in 1993, in Nantong City, Jiangsu Province (江苏省南通市); I can speak Mandarin, English, Cantonese and Nantong dialect fluently (FYI: There are 6 different dialects in the greater Nantong area and I can understand most of them but can only speak Nantonese, i.e. 南通话). I can also speak a little bit of hokkien (闽南话) because of my wife Catherine.
 
+
+---
+Advice to Students (from [Brian Wetton](https://sites.google.com/view/brianwetton/) ) 
+ 1. Remember to sleep 
+ 2. Remember to eat (healthily)
+ 3. Try to exercise at least three times a week
+ 4. ==Make sure what you are studying is (mostly) interesting to you and has some challenge==
+
+
