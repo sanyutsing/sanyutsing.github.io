@@ -102,4 +102,7 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 #### referee work
 + I have refereed articles for publications in Classical and Quantum Gravity, Physica Scripta, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations.
 
-
+## Academic advising 
+#### Current
++ Haoran Wu (Phd student, since Fall 2024)
++ Xuewen Lai (Undergraduate student, since Fall 2025)
