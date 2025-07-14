@@ -38,6 +38,8 @@ header:
 
 ##  Honors and awards
 
+### Fudan University
++ 2024年度复旦大学优秀博士后                                               2025
 
 ### the University of British Columbia
 + President's Academic Excellence Initiative PhD Award                  2020,2021
