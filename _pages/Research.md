@@ -62,24 +62,32 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 ## Academic activities
 #### conferences and talks 
-+ 第一届微分方程与非线性分析青年学术研讨会 （组织） @ Fudan University                                         2024/12                                   
-+ 第四届国际生物数学建模、分析与应用研讨会   @ Harbin Engineering University                                  2024/06
 
-+ 非线性分析青年学术研讨会   @ Wuhan University of Technology                                              2024/06
++ 第30届差分方程和应用国际会议(ICDEA 2025) （报告） @ Guangzhou, Guangdong, China                          2025/07
+  
++ 第二届“面向未来的复杂系统科学--交叉与融合”学者讲习班 （组织）@ IICS, Fudan University                        2025/07
+
++ 2025微分方程与动力系统研讨会 （报告） @ SUSTech University                                               2025/06                  
++ 现代偏微分方程分析与计算学术研讨会 （报告）@ Chongqing Normal University                                   2025/05
+
++ 第一届微分方程与非线性分析青年学术研讨会 （组织） @ Fudan University                                         2024/12                                   
++ 第四届国际生物数学建模、分析与应用研讨会 （报告） @ Harbin Engineering University                            2024/06
+
++ 非线性分析青年学术研讨会（报告）  @ Wuhan University of Technology                                         2024/06
 
 + 三亚波国际前沿论坛@清华三亚国际数学论坛                                                                     2024/01
 
-+ “面向未来的复杂系统科学--交叉与融合”学者讲习班 @ IICS, Fudan University                                      2023/11
++ 第一届“面向未来的复杂系统科学--交叉与融合”学者讲习班 （组织，报告）@ IICS, Fudan University                      2023/11
 
-+ Seminar talk @ Institute of Mathematical Sciences, ShangTech University                               2023/11
++ Seminar talk （报告）@ Institute of Mathematical Sciences, ShangTech University                         2023/11
 
-+ Seminar talk @ School of Mathematics, South China University of Technology                             2023/07
++ Seminar talk（报告） @ School of Mathematics, South China University of Technology                       2023/07
 
-+ CSIAM 2022 @ Guangzhou, Guangdong, China                                                               2022/09
++ CSIAM 2022 （报告）@ Guangzhou, Guangdong, China                                                        2022/09
 
 + Workshop on Analysis and PDE @ Tianjin Center for Applied Mathematics (TCAM)                           2019/08
 
-+ SIAM Conference on Applications of Dynamical Systems @ Snowbird, UT, US                                2019/05
++ SIAM Conference on Applications of Dynamical Systems （报告） @ Snowbird, UT, US                        2019/05
 
 
 
