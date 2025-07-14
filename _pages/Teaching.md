@@ -48,7 +48,7 @@ header:
 ; [Ex13](/file/teaching/EX13.pdf),[Ans13](/file/teaching/Ans13.pdf)
 
 
-## 2018-2019: I taught MATH110/001 Differential Calculus at UBC, Sep 2018.
+## 2018-2019:  MATH110/001 Differential Calculus at UBC.
 
-## 2015-2021: teaching assistant at UBC.
+## 2015-2021:  teaching assistant at UBC.
 
