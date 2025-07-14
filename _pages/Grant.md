@@ -13,11 +13,13 @@ header:
 
 ### In Progress
 
-+ National Natural Science Foundation of China, Young Scientists Fund (**30W**)【青年基金】   2025-2027
++ NSFC, Young Scientists Fund (**30W**)【青年基金】   2025-2027
 
 + Shanghai Magnolia Talent Plan Pujiang Project, Category A (**30W**) 【白玉兰浦江】  2024-2026
 
-+ Natural Science Foundation of Shanghai, General Projects (**20W**)【上海科创面上】     2024-2027
++ NSF of Shanghai, General Projects (**20W**)【上海科创面上】     2024-2027
+
++ NSFC, Original Exploration Program (**200W**, participate) 【原创探索】 2025-2027
  
 + 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (**20W**)      2024-2025
 
