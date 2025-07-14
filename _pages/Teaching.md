@@ -30,7 +30,7 @@ header:
 
 3.  AI methods for solving high dimensional PDEs.
 
-
+---
 
   
 ## 2022-2023
@@ -47,7 +47,8 @@ header:
 ; [Ex12](/file/teaching/EX12.pdf),[Ans12](/file/teaching/EX12answer.pdf)
 ; [Ex13](/file/teaching/EX13.pdf),[Ans13](/file/teaching/Ans13.pdf)
 
-
+---
 ## 2018-2019: I taught MATH110/001 Differential Calculus at UBC, Sep 2018.
+---
 ## 2015-2021: teaching assistant at UBC.
 
