@@ -13,19 +13,21 @@ header:
 
 ## Working experience
 
-### Young Principal Investigator: Research Institute of Intelligent Complex Systems, Fudan University  2023-present
+### 2023-present: Young Principal Investigator
+#### Research Institute of Intelligent Complex Systems, Fudan University 
 
-***
 
-### Postdoc Fellow: School of Mathematical Sciences, Fudan University                                  2021-2023
+### 2021-2023: Postdoc Fellow
+#### School of Mathematical Sciences, Fudan University                                
 
 Host: Prof. Lei, Zhen.
 
-***
+---
 
 ## Education 
 
-### Phd in Mathematics: the University of British Columbia                            2017-2021
+### 2017-2021: Phd in Mathematics
+####  the University of British Columbia                     
 
 Area: Analysis, dynamics and numerics in PDEs
 
@@ -34,12 +36,12 @@ Thesis: [Analytical and numerical results for phase field, implicit free boundar
 
 Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
-***
 
 
 
 
-### Msc in Mathematics: the University of British Columbia                             2015-2017
+### 2015-2017: Msc in Mathematics
+####  the University of British Columbia                           
 
 Area: Analysis, dynamics and numerics in PDEs
 
@@ -48,10 +50,10 @@ Thesis: [On the Stability of a Semi-Implicit Scheme of Cahn-Hilliard Type Equati
 Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
 
-***
 
 
-### Bsc in Mathematics with Honors, First Class: the Chinese University of Hong Kong   2011-2015
+### 2011-2015: Bsc in Mathematics with Honors, First Class
+#### the Chinese University of Hong Kong   
 
 Areas: Computational & Applied Maths; Enrichment Stream in Maths.
 
