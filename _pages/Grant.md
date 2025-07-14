@@ -19,7 +19,7 @@ header:
 
 + NSF of Shanghai, General Projects (**20W**)【上海科创面上】     2024-2027
 
-+ NSFC, Original Exploration Program (**200W**, participate) 【原创探索】 2025-2027
++ NSFC, Original Exploration Program (**130W**, participate) 【原创探索】 2025-2027
  
 + 复旦大学AI+课程资助: Deep Learning Algorithm for High-Dimensional PDEs  (**20W**)      2024-2025
 
