@@ -36,6 +36,6 @@ Advice to Students (from [Brian Wetton](https://sites.google.com/view/brianwetto
  1. Remember to sleep 
  2. Remember to eat (healthily)
  3. Try to exercise at least three times a week
- 4. ==Make sure what you are studying is (mostly) interesting to you and has some challenge==
+ 4. Make sure what you are studying is (mostly) interesting to you and has some challenge
 
 
