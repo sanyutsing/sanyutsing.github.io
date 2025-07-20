@@ -114,3 +114,10 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 #### Current
 + Haoran Wu (Phd student, since Fall 2024)
 + Xuewen Lai (Undergraduate student, since Fall 2025)
+---
+
+## Opportunities for graduate students and postdoc fellows
+I am looking to recruit graduate students for three projects
++ numerical analysis of methods for capturing phase change
++ analysis and computation of fluid models
++ some aspects of machine learning using PINNs, neural ODEs, deepBSDE and others.
