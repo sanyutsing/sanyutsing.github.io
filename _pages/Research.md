@@ -58,6 +58,8 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
  8. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
 
+ 9. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
+
 
 
 ## Academic activities
