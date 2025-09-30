@@ -54,11 +54,14 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
  
  6. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [arXiv:2312.00821](https://arxiv.org/abs/2312.00821).
 
- 7. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
+ 7. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, preprint [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
 
- 8. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
+ 8. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
 
- 9. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
+ 9. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
+
+ 10. A sharp low regularity method for the surface quasi-geostrophic equations: a Besov framework, joint with Z. Luo and S. Wang. Preprint, submitted.
+
 
 
 
