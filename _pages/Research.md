@@ -68,7 +68,9 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 ## Academic activities
 #### conferences and talks 
 
-+ 第30届差分方程和应用国际会议(ICDEA 2025) （报告） @ Guangzhou, Guangdong, China                          2025/07
++ 中国工业与应用数学学会第二十三届年会（CSIAM 2025） (分组报告）@ Changsha, Hunan, China                         2025/10
+
++ 第30届差分方程和应用国际会议(ICDEA 2025) （分组报告） @ Guangzhou, Guangdong, China                          2025/07
   
 + 第二届“面向未来的复杂系统科学--交叉与融合”学者讲习班 （组织）@ IICS, Fudan University                        2025/07
 
@@ -113,11 +115,12 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 
 #### referee work
-+ I have refereed articles for publications in Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Classical and Quantum Gravity, Physica Scripta, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations.
++ I have refereed articles for publications in Mathematics of Computation, Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Classical and Quantum Gravity, Physica Scripta, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations.
 
 ## Academic advising 
 #### Current
 + Haoran Wu (Phd student, since Fall 2024)
++ Weiran Xiong (Phd student, since Fall 2024)
 + Xuewen Lai (Undergraduate student, since Fall 2025)
 
 
