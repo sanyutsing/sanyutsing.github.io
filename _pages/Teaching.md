@@ -19,6 +19,9 @@ header:
 ---
 ### Previous teaching expierences:
 
+## 2025-2026
+1. Calculus C (term 1).
+
 ## 2024-2025
 
 1. numerical analysis (term 1). The lecture notes and HW assignments are posted below.
