@@ -39,6 +39,7 @@ header:
 ##  Honors and awards
 
 ### Fudan University
++ 2025年度复旦大学教育教学改革优质课程                                       2026
 + 2024年度复旦大学优秀博士后                                               2025
 
 ### the University of British Columbia
