@@ -68,6 +68,10 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 ## Academic activities
 #### conferences and talks 
 
++ 2026年中山大学理学院五周年院庆暨偏微分方程、动力系统与计算数学学术会议 （分组报告）@ Shenzhen, Guangdong, China    2026/03
+
++ 2025 HKU Workshop on PDEs and Analysis （报告）@ Hong Kong, China                                      2025/11
+  
 + 中国工业与应用数学学会第二十三届年会（CSIAM 2025） (分组报告）@ Changsha, Hunan, China                         2025/10
 
 + 第30届差分方程和应用国际会议(ICDEA 2025) （分组报告） @ Guangzhou, Guangdong, China                          2025/07
