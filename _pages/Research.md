@@ -60,7 +60,10 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
  9. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
 
- 10. A sharp low regularity method for the surface quasi-geostrophic equations: a Besov framework, joint with Z. Luo and S. Wang. Preprint, submitted.
+ 10. Optimal error estimates of a low-regularity integrator for the SQG equations under minimal regularity, joint with Z. Luo and S. Wang. Preprint, submitted.
+
+ 11. The vanishing viscosity limit of the surface quasi-geostrophic equations in borderline Besov spaces: Rates and same topology convergence, joint with Z. Luo and S. Wang. Preprint, submitted.
+
 
 
 
