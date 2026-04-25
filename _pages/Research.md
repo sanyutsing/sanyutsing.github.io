@@ -124,7 +124,7 @@ I have refereed articles for publications in
 + Mathematics of Computation, IMA Journal of Numerical Analysis, Advances in Computational Mathematics
 
 #### PDE and Analysis
-+ Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations
++ Applied Mathematics Letters, Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations
 
 #### Mathematical Physics
 + Classical and Quantum Gravity, Physica Scripta.
