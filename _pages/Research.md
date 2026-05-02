@@ -126,10 +126,10 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 ## Academic Service
 I have refereed articles for publications in
 #### Numerical Analysis and Scientific Computing
-+ Mathematics of Computation, IMA Journal of Numerical Analysis, Advances in Computational Mathematics
++ Mathematics of Computation, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, Applied Mathematics Letters
 
 #### PDE and Analysis
-+ Applied Mathematics Letters, Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations
++ Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations, Applied Mathematics-A Journal of Chinese Universities
 
 #### Mathematical Physics
 + Classical and Quantum Gravity, Physica Scripta.
