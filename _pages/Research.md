@@ -71,6 +71,10 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 ## Academic activities
 #### conferences and talks 
 
++ SNSA 2026 （分组召集人） @ Guilin, Guangxi, China                                                      2026/07
+
++ AIMS 2026 （分组报告人，分组召集人）@ Athens, Greece                                                      2026/07
+
 + 2026年兰州大学计算数学前沿论坛 (报告）@ Lanzhou, Gansu, China                                              2026/04
 
 + 2026年中山大学理学院五周年院庆暨偏微分方程、动力系统与计算数学学术会议 （分组报告）@ Shenzhen, Guangdong, China    2026/03
