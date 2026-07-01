@@ -40,7 +40,7 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 11. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, BIT Numer. Math., 65(26): 26, 2025. [pdf](/file/paper/C25b.pdf)
 
-12. Stability and convergence of an iterative low-regularity method for the Cahn-Hilliard equation, joint with Z. Luo and S. Wang, to appear in J. Diff. Eq. 
+12. Stability and convergence of an iterative low-regularity method for the Cahn-Hilliard equation, joint with Z. Luo and S. Wang, to appear in J. Diff. Eq.  [pdf](/file/paper/CLW26.pdf)
 
 #### preprints
 
