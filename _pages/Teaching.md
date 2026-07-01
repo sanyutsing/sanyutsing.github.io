@@ -28,9 +28,7 @@ header:
 + [EX1](/file/teaching/2024EX1.pdf); [EX2](/file/teaching/2024EX2.pdf) ; [EX3](/file/teaching/2024EX3.pdf)
   
 2.   Partial differential equations. 
-
 + Lecture notes: [Part_1](/file/teaching/PDE_notes_part1.pdf).  
-
 3.  AI methods for solving high dimensional PDEs.
 
 
