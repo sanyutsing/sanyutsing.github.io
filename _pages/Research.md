@@ -40,29 +40,29 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 11. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, BIT Numer. Math., 65(26): 26, 2025. [pdf](/file/paper/C25b.pdf)
 
+12. Stability and convergence of an iterative low-regularity method for the Cahn-Hilliard equation, joint with Z. Luo and S. Wang, to appear in J. Diff. Eq. 
+
 #### preprints
 
- 1. Unconditionally stable exponential integrator schemes for the 2D Cahn-Hilliard equation, [arXiv:2312.15656](https://arxiv.org/abs/2312.15656).
+ 1. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted, [arXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
 
- 2. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted, [arXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
+ 2. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted, [arXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
 
- 3. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted, [arXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
-
- 4. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
+ 3. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
  
- 5. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
+ 4. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
  
- 6. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [arXiv:2312.00821](https://arxiv.org/abs/2312.00821).
+ 5. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [arXiv:2312.00821](https://arxiv.org/abs/2312.00821).
 
- 7. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, preprint [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
+ 6. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, preprint [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
 
- 8. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
+ 7. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
 
- 9. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
+ 8. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
 
- 10. Optimal error estimates of a low-regularity integrator for the SQG equations under minimal regularity, joint with Z. Luo and S. Wang. Preprint, submitted.
+ 9. Optimal error estimates of a low-regularity integrator for the SQG equations under minimal regularity, joint with Z. Luo and S. Wang. Preprint, submitted.
 
- 11. The vanishing viscosity limit of the surface quasi-geostrophic equations in borderline Besov spaces: Rates and same topology convergence, joint with Z. Luo and S. Wang. Preprint, submitted.
+ 10. The vanishing viscosity limit of the surface quasi-geostrophic equations in borderline Besov spaces: Rates and same topology convergence, joint with Z. Luo and S. Wang. Preprint, submitted.
 
 
 
