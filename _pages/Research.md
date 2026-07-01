@@ -141,8 +141,8 @@ I have refereed articles for publications in
 ## Academic advising 
 #### Current
 + Haoran Wu (Phd student, since Fall 2024)
-+ Weiran Xiong (Phd student, since Fall 2024)
-+ Xuewen Lai (Undergraduate student, since Fall 2025)
++ Weiran Xiong (Phd student, since Fall 2026)
++ Xuewen Lai (Phd student, since Fall 2026)
 
 
 ## Opportunities for graduate students and postdoc fellows
