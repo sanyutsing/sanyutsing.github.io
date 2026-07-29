@@ -1,4 +1,4 @@
---
+---
 title: 'Seminar'
 layout: single
 permalink: /seminar/
