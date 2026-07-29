@@ -23,7 +23,7 @@ header:
 
 **主持人 Organizer**
 - [Xinyu Cheng 程新宇](https://sanyutsing.github.io/)
-  - 复旦大学 智能复杂系统基础研究院（IICS）
+  - 复旦大学 智能复杂体系基础理论与关键技术实验室（IICS）
   - Research Institute of Intelligent Complex Systems, Fudan University
   - Email: `xycheng AT fudan DOT edu DOT cn`
 
@@ -101,7 +101,7 @@ If you are interested in giving a talk, please contact us via the email below. S
 ## 相关链接 / Related Links
 
 - [Xinyu Cheng's homepage](https://sanyutsing.github.io/) — 个人主页（含简历、论文、教学、基金项目）
-- [IICS @ Fudan](https://iics.fudan.edu.cn/) — 智能复杂系统基础研究院
+- [IICS @ Fudan](https://iics.fudan.edu.cn/) — 智能复杂体系基础理论与关键技术实验室
 - [arXiv](https://arxiv.org/a/cheng_x_1) · [Google Scholar](https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN) · [GitHub](https://github.com/sanyutsing)
 
 ---
