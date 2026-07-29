@@ -106,7 +106,11 @@ If you are interested in giving a talk, please contact us via the email below. S
 
 ---
 
+
+
 ## 致学生 / Advice to Students
+
+> * Congratulations to Z. Luo, J. Song, C. Wang, Z. He, C. Yuan for recent (2026) publications in J. Diff. Eq., J. Diff. Eq., J. Math. Phys., J. Math. Fluid. Mech., Adv. Math.!*
 
 > *“Remember to sleep; remember to eat (healthily); try to exercise at least three times a week; make sure what you are studying is (mostly) interesting to you and has some challenge.”*
 > — Brian Wetton
