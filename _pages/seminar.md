@@ -27,9 +27,6 @@ header:
   - Research Institute of Intelligent Complex Systems, Fudan University
   - Email: `xycheng AT fudan DOT edu DOT cn`
 
-**联合组织 Co-organizers**
-- *To be announced（待补充，欢迎方向契合的同仁联系合作组织）*
-
 ---
 
 ## 讨论班简介 / About
@@ -58,9 +55,9 @@ This seminar focuses on the **mathematical analysis and numerical methods for PD
 
 | 项目 Item | 说明 Description |
 | --- | --- |
-| **频率 Frequency** | 每周 1 次，学期内常规进行（寒暑假及法定假日除外）<br>Twice per month during the academic semester |
+| **频率 Frequency** | 每周 1 次，学期内常规进行（寒暑假及法定假日除外）<br>Once per week during the academic semester |
 | **时间 Time** | 周三 16:00 – 17:30（待最终确认）<br>Wednesday 16:00 – 17:30 (TBC) |
-| **地点 Venue** | 复旦大学五号楼410室<br>Lecture Hall, IICS, Fudan University |
+| **地点 Venue** | 复旦大学五号楼410室<br>Lecture Hall 410, IICS, Fudan University |
 | **语言 Language** | 中文 / 英文（视主讲人偏好）<br>Chinese / English (depending on speaker) |
 | **形式 Format** | 线下为主；特殊情况支持线上混合<br>In-person primary; hybrid on request |
 
@@ -110,7 +107,7 @@ If you are interested in giving a talk, please contact us via the email below. S
 
 ## 致学生 / Advice to Students
 
-> *Congratulations to Z. Luo, J. Song, C. Wang, Z. He, C. Yuan for recent (2026) publications in J. Diff. Eq., J. Diff. Eq., J. Math. Phys., J. Math. Fluid. Mech., Adv. Math.!*
+> *Congratulations to seminar members, Z. Luo, J. Song, C. Wang, Z. He, C. Yuan for recent (2026) publications in J. Diff. Eq., J. Diff. Eq., J. Math. Phys., J. Math. Fluid. Mech., Adv. Math.!*
 
 > *“Remember to sleep; remember to eat (healthily); try to exercise at least three times a week; make sure what you are studying is (mostly) interesting to you and has some challenge.”*
 > — Brian Wetton
