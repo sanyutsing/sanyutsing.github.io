@@ -145,7 +145,7 @@ I have refereed articles for publications in
 + Xuewen Lai (Phd student, since Fall 2026)
 
 ## Academic seminars
-#### [Past and current](/_pages/seminar.md) 
+#### [Past and current](/seminar/) 
 
 ## Opportunities for graduate students and postdoc fellows
 I am looking to recruit graduate students for three projects
