@@ -107,7 +107,7 @@ If you are interested in giving a talk, please contact us via the email below. S
 
 ## 致学生 / Advice to Students
 
-> *Congratulations to seminar members, Z. Luo, J. Song, C. Wang, J. Wang, Z. He, C. Yuan for recent (2026) publications in J. Diff. Eq., J. Diff. Eq., J. Math. Phys., Acta Mathematica Scientia, J. Math. Fluid. Mech. and Adv. Math.!*
+> *Congratulations to seminar members, Z. Luo for recent (2026) publications in Proc. Amer. Math. Soc., IMA JNA, J. Diff. Eq., J. Song for recent publications in J. Diff. Eq., C. Wang for recent publications in J. Math. Phys., J. Wang for recent publications in Acta Mathematica Scientia, Z. He for recent publications in J. Math. Fluid. Mech. and  C. Yuan for recent publications in Adv. Math.!*
 
 > *“Remember to sleep; remember to eat (healthily); try to exercise at least three times a week; make sure what you are studying is (mostly) interesting to you and has some challenge.”*
 > — Brian Wetton
