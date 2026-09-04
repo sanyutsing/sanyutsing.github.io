@@ -44,6 +44,9 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
 13. Optimal error estimates of a low-regularity integrator for the SQG equations under endpoint regularity, joint with Z. Luo and S. Wang, to appear in IMA. J. Numer. Anal.
 
+14. The vanishing viscosity limit of the surface quasi-geostrophic equations in borderline Besov spaces: Rates and same topology convergence, joint with Z. Luo and S. Wang, to appear in Proc. Amer. Math. Soc.
+
+
 #### preprints
 
  1. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted, [arXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
@@ -62,8 +65,7 @@ My interest is on the mathematical analysis of PDEs and applied mathematics incl
 
  8. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
 
- 9. The vanishing viscosity limit of the surface quasi-geostrophic equations in borderline Besov spaces: Rates and same topology convergence, joint with Z. Luo and S. Wang. Preprint, submitted.
-
+ 
 
 
 
