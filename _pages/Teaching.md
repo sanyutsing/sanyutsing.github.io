@@ -15,7 +15,7 @@ header:
 
 ## 2026-2027
 1. Partial differential equations. 
-+ Lecture notes: [Part_1](/file/teaching/PDE_notes_part1.pdf), [Part 2]((/file/teaching/PDE_notes_Part2.pdf))
++ Lecture notes: [Part_1](/file/teaching/PDE_notes_part1.pdf), [Part 2](/file/teaching/PDE_notes_Part2.pdf)
 
 ---
 
