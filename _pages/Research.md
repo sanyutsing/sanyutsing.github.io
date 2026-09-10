@@ -26,8 +26,8 @@ Three representative lines of work. The full publication and preprint list below
 
 - **Non-uniqueness of weak solutions.** Stationary weak solutions of SQG are not unique at low regularity, which gives a route toward a stationary analogue of Onsager's conjecture ([Comm. Math. Phys. 2021](/file/paper/CKL-CMP21.pdf)).
 - **Global strong solutions.** Global well-posedness for Klein–Gordon–wave systems, including global strong solutions in low-regularity spaces ([Calc. Var. PDE 2024](/file/paper/CX23.pdf); [Dynam. PDE 2022](/file/paper/CLLX22.pdf)).
-- **Vanishing viscosity.** For dissipative SQG, the inviscid limit holds in borderline Besov spaces, with a quantitative rate, and the convergence takes place in the same topology as the initial data (to appear in [Proc. Amer. Math. Soc.](/file/paper/SQG_PAMS.pdf)).
-- Related analysis also includes equivalent formulations of Helmholtz equations and localization ([Comm. Contemp. Math.](/file/paper/CLY22.pdf); [J. Differ. Equ. 2024](/file/paper/CLY24.pdf)).
+- **Vanishing viscosity.** For dissipative SQG, the inviscid limit holds in borderline Besov spaces, with a quantitative rate, and the convergence takes place in the same topology as the initial data (to appear in [Proc. Amer. Math. Soc. 2026](/file/paper/SQG_PAMS.pdf)).
+- Related analysis also includes equivalent formulations of Helmholtz equations and localization ([Comm. Contemp. Math. 2022](/file/paper/CLY22.pdf); [J. Differ. Equ. 2024](/file/paper/CLY24.pdf)).
 
 <p>
 <img src="/images/research/wave-t20.jpg" alt="Klein-Gordon-wave field at t=20" style="width:48%; height:auto;">
@@ -58,8 +58,8 @@ Three representative lines of work. The full publication and preprint list below
 *Same initial data, two spatial resolutions (N = 128 vs N = 1024). The scheme remains stable while resolving the singular structure.*
 
 - **Structure preservation.** Energy-stable semi-implicit schemes for phase-field models (Allen–Cahn, Cahn–Hilliard) that capture singularities and keep structural stability over long times ([IMA J. Numer. Anal. 2026](/file/paper/C25.pdf); [BIT Numer. Math. 2025](/file/paper/C25b.pdf)).
-- **Low-regularity convergence.** Convergence can be proved in the same low-regularity space as the initial data, for SQG, Cahn–Hilliard, and related fluid models. The analysis and the schemes are designed to check each other ([J. Differ. Equ.](/file/paper/CLW26.pdf)).
-- **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal.](/file/paper/SQG_final.pdf)). 
+- **Low-regularity convergence.** Convergence can be proved in the same low-regularity space as the initial data, for SQG, Cahn–Hilliard, and related fluid models. The analysis and the schemes are designed to check each other ([J. Differ. Equ. 2026](/file/paper/CLW26.pdf)).
+- **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)). 
 
 
 ## Publications and preprints (by year)
