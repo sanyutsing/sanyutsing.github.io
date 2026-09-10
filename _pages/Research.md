@@ -26,7 +26,7 @@ Three representative lines of work. The full publication and preprint list below
 
 - **Non-uniqueness of weak solutions.** Stationary weak solutions of SQG are not unique at low regularity, which gives a route toward a stationary analogue of Onsager's conjecture ([Comm. Math. Phys. 2021](/file/paper/CKL-CMP21.pdf)).
 - **Global strong solutions.** Global well-posedness for Klein–Gordon–wave systems, including global strong solutions in low-regularity spaces ([Calc. Var. PDE 2024](/file/paper/CX23.pdf); [Dynam. PDE 2022](/file/paper/CLLX22.pdf)).
-- **Vanishing viscosity.** For dissipative SQG, the inviscid limit holds in borderline Besov spaces, with a quantitative rate, and the convergence takes place in the same topology as the initial data (to appear in Proc. Amer. Math. Soc.).
+- **Vanishing viscosity.** For dissipative SQG, the inviscid limit holds in borderline Besov spaces, with a quantitative rate, and the convergence takes place in the same topology as the initial data (to appear in [Proc. Amer. Math. Soc.](/file/paper/SQG_PAMS.pdf)).
 - Related analysis also includes equivalent formulations of Helmholtz equations and localization ([Comm. Contemp. Math.](/file/paper/CLY22.pdf); [J. Differ. Equ. 2024](/file/paper/CLY24.pdf)).
 
 <p>
@@ -59,7 +59,7 @@ Three representative lines of work. The full publication and preprint list below
 
 - **Structure preservation.** Energy-stable semi-implicit schemes for phase-field models (Allen–Cahn, Cahn–Hilliard) that capture singularities and keep structural stability over long times ([IMA J. Numer. Anal. 2026](/file/paper/C25.pdf); [BIT Numer. Math. 2025](/file/paper/C25b.pdf)).
 - **Low-regularity convergence.** Convergence can be proved in the same low-regularity space as the initial data, for SQG, Cahn–Hilliard, and related fluid models. The analysis and the schemes are designed to check each other ([J. Differ. Equ.](/file/paper/CLW26.pdf)).
-- **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in IMA J. Numer. Anal.). 
+- **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal.](/file/paper/SQG_final.pdf)). 
 
 
 ## Publications and preprints (by year)
@@ -78,8 +78,8 @@ Three representative lines of work. The full publication and preprint list below
 10. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, IMA. J. Numer. Anal, 46(2):758--794, 2026. [pdf](/file/paper/C25.pdf)
 11. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, BIT Numer. Math., 65(26): 26, 2025. [pdf](/file/paper/C25b.pdf)
 12. Stability and convergence of an iterative low-regularity method for the Cahn-Hilliard equation, joint with Z. Luo and S. Wang, to appear in J. Diff. Eq. [pdf](/file/paper/CLW26.pdf)
-13. Optimal error estimates of a low-regularity integrator for the SQG equations under endpoint regularity, joint with Z. Luo and S. Wang, to appear in IMA. J. Numer. Anal.
-14. The vanishing viscosity limit of the surface quasi-geostrophic equations in borderline Besov spaces: Rates and same topology convergence, joint with Z. Luo and S. Wang, to appear in Proc. Amer. Math. Soc.
+13. Optimal error estimates of a low-regularity integrator for the SQG equations under endpoint regularity, joint with Z. Luo and S. Wang, to appear in IMA. J. Numer. Anal. [pdf](/file/paper/SQG_final.pdf)
+14. The vanishing viscosity limit of the surface quasi-geostrophic equations in borderline Besov spaces: Rates and same topology convergence, joint with Z. Luo and S. Wang, to appear in Proc. Amer. Math. Soc. [pdf](/file/paper/SQG_PAMS.pdf)
 
 
 #### preprints
