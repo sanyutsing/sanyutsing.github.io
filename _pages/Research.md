@@ -21,6 +21,7 @@ Three representative lines of work. The full publication and preprint list below
 ### Well-posedness
 
 ![The inviscid SQG equation on the torus](/images/research/sqg-equation.png)
+
 *The inviscid surface quasi-geostrophic (SQG) equation on the torus.*
 
 - **Non-uniqueness of weak solutions.** Stationary weak solutions of SQG are not unique at low regularity, which gives a route toward a stationary analogue of Onsager's conjecture ([Comm. Math. Phys. 2021](/file/paper/CKL-CMP21.pdf)).
