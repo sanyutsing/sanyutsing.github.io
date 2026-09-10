@@ -11,7 +11,12 @@ header:
 
 
 
-###  Current teaching: TBA 
+###  Current teaching: 
+
+## 2026-2027
+1. Partial differential equations. 
++ Lecture notes: [Part_1](/file/teaching/PDE_notes_part1.pdf), [Part 2]()
+
 ---
 
 ### This is my [teaching statement.](/file/teaching_statement.pdf)
