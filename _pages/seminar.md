@@ -17,6 +17,12 @@ header:
 > **PDE 分析与计算 · 复杂系统中的界面、流体与相变**
 > *PDE Analysis & Computation — Interfaces, Fluids, and Phase Change in Complex Systems*
 
+<p>
+<img src="/images/seminar/1.jpg" alt="Seminar members at a conference session" style="width:32%; height:auto;">
+<img src="/images/seminar/2.jpg" alt="Seminar group photo" style="width:32%; height:auto;">
+<img src="/images/seminar/3.jpg" alt="Seminar members traveling to a conference" style="width:32%; height:auto;">
+</p>
+
 ---
 
 ## 主办 / Organizers
@@ -118,4 +124,4 @@ This seminar is not a burden — it is a series of conversations with peers. We 
 
 ---
 
-*最后更新 / Last updated: 2026-07*
+*最后更新 / Last updated: 2026-09*
