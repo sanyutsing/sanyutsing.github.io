@@ -92,7 +92,7 @@ Three representative lines of work. The full publication and preprint list below
 6. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, preprint [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
 7. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
 8. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
-
+9. Nonlinear Stability of Nonconstant Steady States in Chemotaxis--Consumption Systems with General Motility， joint with X. Lai and X. Song, preprint.
  
 
 
