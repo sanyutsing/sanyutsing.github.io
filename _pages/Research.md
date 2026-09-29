@@ -182,4 +182,4 @@ I have refereed articles for publications in
 I am looking to recruit graduate students for three projects
 + numerical analysis of methods for capturing phase change
 + analysis and computation of fluid models
-+ some aspects of machine learning using PINNs, neural ODEs, deepBSDE and others.
++ some aspects of machine learning using neural ODEs, deepBSDE and others.
