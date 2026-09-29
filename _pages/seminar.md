@@ -71,7 +71,7 @@ This seminar focuses on the **mathematical analysis and numerical methods for PD
 
 ## 拟邀请报告人 / Prospective Speakers
 
-> [Cheng Yuan （袁诚）](yuanchn.github.io)
+> [Cheng Yuan （袁诚）](cyuanchn.github.io)
 > *持续更新中 / Updated regularly*
 
 
