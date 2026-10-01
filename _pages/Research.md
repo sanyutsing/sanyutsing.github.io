@@ -175,6 +175,8 @@ I have refereed articles for publications in
 + Haoran Wu (Phd student, since Fall 2024)
 + Weiran Xiong (Phd student, since Fall 2026)
 + Xuewen Lai (Phd student, since Fall 2026)
++ Yanqiao He (Phd student, since Fall 2027)
++ Jia Xiao (Phd student, since Fall 2027)
 
 ## Academic seminars
 #### [Past and current](/seminar/) 
