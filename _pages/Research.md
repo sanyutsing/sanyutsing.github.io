@@ -93,7 +93,8 @@ Three representative lines of work. The full publication and preprint list below
 7. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
 8. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
 9. Nonlinear Stability of Nonconstant Steady States in Chemotaxis--Consumption Systems with General Motility, joint with X. Lai and X. Song, preprint [arXiv:2609.34202](https://arxiv.org/abs/2609.34202).
-10. Global Effective Approximation and Scattering for a Wave--Klein--Gordon System, submitted.
+10. Deep Truncated FBSDE Method: A Robust Solver for High-Dimensional Nonlinear PDEs and Fully Coupled FBSDEs, joint with Y. Li and W. Xiong, preprint [arXiv:2609.39616](https://arxiv.org/abs/2609.39616).
+11. Global Effective Approximation and Scattering for a Wave--Klein--Gordon System, submitted.
  
 
 
