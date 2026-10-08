@@ -18,7 +18,7 @@ My interest is on the mathematical analysis of PDEs and applied mathematics, inc
 
 Four representative lines of work. The full publication and preprint list below is unchanged.
 
-### Well-posedness
+### 1. Well-posedness
 
 ![The inviscid SQG equation on the torus](/images/research/sqg-equation.png)
 
@@ -37,7 +37,7 @@ Four representative lines of work. The full publication and preprint list below 
 
 *Wave–Klein–Gordon fields at two times (t = 20 and t = 9).*
 
-### Interface dynamics
+### 2. Interface dynamics
 
 ![Phase-field coalescence: two interfaces merge into one](/images/research/interface-coalescence.png)
 *Interface coalescence in a phase-field model.*
@@ -52,7 +52,7 @@ Four representative lines of work. The full publication and preprint list below 
 
 *Allen–Cahn (left) and Cahn–Hilliard (right): small components disappear or merge as time evolves.*
 
-### Low-regularity structure-preserving schemes
+### 3. Low-regularity structure-preserving schemes
 
 ![Comparison of a low-regularity scheme at N=128 and N=1024](/images/research/low-regularity-resolution.png)
 
@@ -63,7 +63,7 @@ Four representative lines of work. The full publication and preprint list below 
 - **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)).
 - **Fluid models in borderline spaces.** Unconditionally stable semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, and a Besov-based integration-by-parts framework with stability and convergence for the Navier–Stokes equations in borderline Besov spaces ([arXiv:2406.12320](https://arxiv.org/abs/2406.12320); [arXiv:2509.23192](https://arxiv.org/abs/2509.23192)).
 
-### Emerging directions
+### 4. Emerging directions
 
 - **Mathematical biology.** Nonlinear stability of positive nonconstant steady states in chemotaxis–consumption systems with general motility on bounded domains in two and three dimensions, with exponential convergence ([arXiv:2609.34202](https://arxiv.org/abs/2609.34202)).
 - **Machine learning for PDEs.** A deep truncated FBSDE method that decouples forward and backward processes via gradient truncation and fictitious-play averaging, giving a robust solver for high-dimensional nonlinear PDEs and fully coupled FBSDEs with residual-based error estimates ([arXiv:2609.39616](https://arxiv.org/abs/2609.39616)).
