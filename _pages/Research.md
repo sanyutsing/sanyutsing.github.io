@@ -12,22 +12,23 @@ header:
 
 ## Research Interest
 
-My interest is on the mathematical analysis of PDEs and applied mathematics including interfacial change, free boundary and fluid models. This is my [research statement.](/file/research_statement.pdf)
+My interest is on the mathematical analysis of PDEs and applied mathematics, including fluid models, interfacial change and free boundary problems, low-regularity structure-preserving numerical methods, and emerging directions such as chemotaxis models and machine-learning based PDE solvers. This is my [research statement.](/file/research_statement.pdf)
 
 ## Research highlights
 
-Three representative lines of work. The full publication and preprint list below is unchanged.
+Four representative lines of work. The full publication and preprint list below is unchanged.
 
-### Well-posedness
+### 1. Well-posedness
 
 ![The inviscid SQG equation on the torus](/images/research/sqg-equation.png)
 
 *The inviscid surface quasi-geostrophic (SQG) equation on the torus.*
 
 - **Non-uniqueness of weak solutions.** Stationary weak solutions of SQG are not unique at low regularity, which gives a route toward a stationary analogue of Onsager's conjecture ([Comm. Math. Phys. 2021](/file/paper/CKL-CMP21.pdf)).
-- **Global strong solutions.** Global well-posedness for Klein–Gordon–wave systems, including global strong solutions in low-regularity spaces ([Calc. Var. PDE 2024](/file/paper/CX23.pdf); [Dynam. PDE 2022](/file/paper/CLLX22.pdf)).
+- **Global strong solutions and scattering.** Global well-posedness for wave and Klein–Gordon–wave systems, including low-regularity global solutions, and global effective approximation and scattering for non-compactly supported data ([Calc. Var. PDE 2024](/file/paper/CX23.pdf); [Dynam. PDE 2022](/file/paper/CLLX22.pdf); [arXiv:2312.00821](https://arxiv.org/abs/2312.00821); scattering manuscript submitted).
 - **Vanishing viscosity.** For dissipative SQG, the inviscid limit holds in borderline Besov spaces, with a quantitative rate, and the convergence takes place in the same topology as the initial data (to appear in [Proc. Amer. Math. Soc. 2026](/file/paper/SQG_PAMS.pdf)).
-- Related analysis also includes equivalent formulations of Helmholtz equations and localization ([Comm. Contemp. Math. 2022](/file/paper/CLY22.pdf); [J. Differ. Equ. 2024](/file/paper/CLY24.pdf)).
+- **Oldroyd-B vanishing damping.** Global well-posedness of the inviscid Oldroyd-B model (with damping) in low-regularity spaces, optimal temporal decay, and the uniform-in-time vanishing damping limit in two and three dimensions ([arXiv:2410.09340](https://arxiv.org/abs/2410.09340)).
+- Related analysis also includes equivalent formulations of Helmholtz equations and localization ([Comm. Contemp. Math. 2023](/file/paper/CLY22.pdf); [J. Differ. Equ. 2024](/file/paper/CLY24.pdf)).
 
 <p>
 <img src="/images/research/wave-t20.jpg" alt="Klein-Gordon-wave field at t=20" style="width:48%; height:auto;">
@@ -36,7 +37,7 @@ Three representative lines of work. The full publication and preprint list below
 
 *Wave–Klein–Gordon fields at two times (t = 20 and t = 9).*
 
-### Interface dynamics
+### 2. Interface dynamics
 
 ![Phase-field coalescence: two interfaces merge into one](/images/research/interface-coalescence.png)
 *Interface coalescence in a phase-field model.*
@@ -51,7 +52,7 @@ Three representative lines of work. The full publication and preprint list below
 
 *Allen–Cahn (left) and Cahn–Hilliard (right): small components disappear or merge as time evolves.*
 
-### Low-regularity structure-preserving schemes
+### 3. Low-regularity structure-preserving schemes
 
 ![Comparison of a low-regularity scheme at N=128 and N=1024](/images/research/low-regularity-resolution.png)
 
@@ -59,7 +60,13 @@ Three representative lines of work. The full publication and preprint list below
 
 - **Structure preservation.** Energy-stable semi-implicit schemes for phase-field models (Allen–Cahn, Cahn–Hilliard) that capture singularities and keep structural stability over long times ([IMA J. Numer. Anal. 2026](/file/paper/C25.pdf); [BIT Numer. Math. 2025](/file/paper/C25b.pdf)).
 - **Low-regularity convergence.** Convergence can be proved in the same low-regularity space as the initial data, for SQG, Cahn–Hilliard, and related fluid models. The analysis and the schemes are designed to check each other ([J. Differ. Equ. 2026](/file/paper/CLW26.pdf)).
-- **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)). 
+- **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)).
+- **Fluid models in borderline spaces.** Unconditionally stable semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, and a Besov-based integration-by-parts framework with stability and convergence for the Navier–Stokes equations in borderline Besov spaces ([arXiv:2406.12320](https://arxiv.org/abs/2406.12320); [arXiv:2509.23192](https://arxiv.org/abs/2509.23192)).
+
+### 4. Emerging directions
+
+- **Mathematical biology.** Nonlinear stability of positive nonconstant steady states in chemotaxis–consumption systems with general motility on bounded domains in two and three dimensions, with exponential convergence ([arXiv:2609.34202](https://arxiv.org/abs/2609.34202)).
+- **Machine learning for PDEs.** A deep truncated FBSDE method that decouples forward and backward processes via gradient truncation and fictitious-play averaging, giving a robust solver for high-dimensional nonlinear PDEs and fully coupled FBSDEs with residual-based error estimates ([arXiv:2609.39616](https://arxiv.org/abs/2609.39616)).
 
 
 ## Publications and preprints (by year)
@@ -71,7 +78,7 @@ Three representative lines of work. The full publication and preprint list below
 3. On a parabolic Sine-Gordon model, joint with D. Li, C. Quan and W. Yang, Numerical Mathematics: Theory, Methods and Applications., 2021, 14(4), 1068--1084. [pdf](/file/paper/CLQY-2021.pdf)
 4. Non-uniqueness of stationary weak solutions to the surface quasi-geostrophic equations, joint with H. Kwon and D. Li, Comm. Math. Phys., 2021, 388 (3), 1281-1295. [pdf](/file/paper/CKL-CMP21.pdf)
 5. Global wellposedness for 2D quasilinear wave without Lorentz, joint with D. Li, J. Xu and D. Zha, Dynam. Part. Differ. Eq., 2022, 19(2), 123-140. [pdf](/file/paper/CLLX22.pdf)
-6. On the equivalence of classical Helmholtz equation and fractional Helmholtz equation with arbitrary order, joint with D. Li and W. Yang, to appear in Comm. Contemp. Math. [pdf](/file/paper/CLY22.pdf)
+6. On the equivalence of classical Helmholtz equation and fractional Helmholtz equation with arbitrary order, joint with D. Li and W. Yang, Comm. Contemp. Math., 25, 2250036, 2023. [pdf](/file/paper/CLY22.pdf)
 7. Equivalent formulations of the oxygen diffusion problem and other implicit free boundary value problems and implications for numerical approximation, joint with Z. Fu and B. Wetton, SIAM J. Appl. Math., 2023, 83(1), 52-78. [pdf](/file/paper/CFW23.pdf)
 8. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, Calc. Var. Part. Differ. Eqn., 63(17), 2024. [pdf](/file/paper/CX23.pdf)
 9. Localization for general Helmholtz, joint with D. Li and W. Yang, J. Diff. Eqn., 393: 139-154, 2024. [pdf](/file/paper/CLY24.pdf)
