@@ -96,12 +96,11 @@ Four representative lines of work. The full publication and preprint list below 
 3. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
 4. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint.
 5. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [arXiv:2312.00821](https://arxiv.org/abs/2312.00821).
-6. On semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, joint with Z. Luo and S. Wang, preprint [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
+6. Viscosity-uniform error estimates for a semi-implicit Fourier method in Besov spaces, joint with Z. Luo and S. Wang, preprint [arXiv:2406.12320](https://arxiv.org/abs/2406.12320).
 7. Global well-posedness and uniform-in-time vanishing damping limit for the inviscid Oldroyd-B model, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2410.09340](https://arxiv.org/abs/2410.09340).
-8. A Besov-based integration-by-parts method for the incompressible Navier-Stokes equations, joint with Z. Luo and S. Wang, preprint [arXiv:2509.23192](https://arxiv.org/abs/2509.23192).
-9. Nonlinear Stability of Nonconstant Steady States in Chemotaxis--Consumption Systems with General Motility, joint with X. Lai and X. Song, preprint [arXiv:2609.34202](https://arxiv.org/abs/2609.34202).
-10. Deep Truncated FBSDE Method: A Robust Solver for High-Dimensional Nonlinear PDEs and Fully Coupled FBSDEs, joint with Y. Li and W. Xiong, preprint [arXiv:2609.39616](https://arxiv.org/abs/2609.39616).
-11. Global Effective Approximation and Scattering for a Wave--Klein--Gordon System, submitted.
+8. Nonlinear Stability of Nonconstant Steady States in Chemotaxis--Consumption Systems with General Motility, joint with X. Lai and X. Song, preprint [arXiv:2609.34202](https://arxiv.org/abs/2609.34202).
+9. Deep Truncated FBSDE Method: A Robust Solver for High-Dimensional Nonlinear PDEs and Fully Coupled FBSDEs, joint with Y. Li and W. Xiong, preprint [arXiv:2609.39616](https://arxiv.org/abs/2609.39616).
+10. Global Effective Approximation and Scattering for a Wave--Klein--Gordon System, submitted.
  
 
 
