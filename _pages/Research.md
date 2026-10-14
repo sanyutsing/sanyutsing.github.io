@@ -174,7 +174,10 @@ I have refereed articles for publications in
 + Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations, Applied Mathematics-A Journal of Chinese Universities
 
 #### Mathematical Physics
-+ Classical and Quantum Gravity, Physica Scripta.
++ Classical and Quantum Gravity, Physica Scripta
+
+#### Mathematical Biology
++ Mathematical Biosciences and Engineering 
 
 ## Academic advising 
 #### Current
