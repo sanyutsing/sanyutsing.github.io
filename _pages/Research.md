@@ -12,7 +12,7 @@ header:
 
 ## Research Interest
 
-My interest is on the mathematical analysis of PDEs and applied mathematics, including fluid models, interfacial change and free boundary problems, low-regularity structure-preserving numerical methods, and emerging directions such as chemotaxis models and machine-learning based PDE solvers. This is my [research statement.](/file/research_statement.pdf)
+My interest is on the mathematical analysis of PDEs and applied mathematics, including fluid models, interfacial change and free boundary problems, low-regularity structure-preserving numerical methods, mathematical biology, and machine-learning based PDE solvers. This is my [research statement.](/file/research_statement.pdf)
 
 ## Research highlights
 
@@ -20,7 +20,10 @@ Four representative lines of work. The full publication and preprint list below 
 
 ### 1. Well-posedness
 
-![The inviscid SQG equation on the torus](/images/research/sqg-equation.png)
+$$
+\partial_t\theta + u\cdot\nabla\theta=0 \quad\text{on }\mathbb{T}^2,\qquad
+u=\nabla^\perp\Lambda^{-1}\theta=(-\mathcal{R}_2\theta,\mathcal{R}_1\theta)
+$$
 
 *The inviscid surface quasi-geostrophic (SQG) equation on the torus.*
 
@@ -42,8 +45,8 @@ Four representative lines of work. The full publication and preprint list below 
 ![Phase-field coalescence: two interfaces merge into one](/images/research/interface-coalescence.png)
 *Interface coalescence in a phase-field model.*
 
-- **Modelling.** For the oxygen-consumption free-boundary problem we work with gradient-flow and variational-inequality formulations, and prove that the different models are equivalent ([SIAM J. Appl. Math. 2023](/file/paper/CFW23.pdf)).
 - **Capturing the dynamics.** Stable schemes give a quantitative description of Allen–Cahn / Cahn–Hilliard interface evolution, including splitting, merging, and other topological changes ([J. Sci. Comput. 2021](/file/paper/CLPW21.pdf)).
+- **Crystal growth.** Related interface work includes a Sinc-type molecular beam epitaxy model ([arXiv:2106.16193](https://arxiv.org/abs/2106.16193)).
 
 <p>
 <img src="/images/research/allen-cahn.png" alt="Allen-Cahn evolution at t=0.1, 1, 5, 10" style="width:48%; height:auto;">
@@ -63,10 +66,25 @@ Four representative lines of work. The full publication and preprint list below 
 - **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)).
 - **Fluid models in borderline spaces.** Unconditionally stable semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, and a Besov-based integration-by-parts framework with stability and convergence for the Navier–Stokes equations in borderline Besov spaces ([arXiv:2406.12320](https://arxiv.org/abs/2406.12320); [arXiv:2509.23192](https://arxiv.org/abs/2509.23192)).
 
-### 4. Emerging directions
+### 4. Mathematical biology and AI
 
-- **Mathematical biology.** Nonlinear stability of positive nonconstant steady states in chemotaxis–consumption systems with general motility on bounded domains in two and three dimensions, with exponential convergence ([arXiv:2609.34202](https://arxiv.org/abs/2609.34202)).
+$$
+\partial_t u=\Delta\bigl(u\,\phi(w)\bigr),\qquad \partial_t w=D\Delta w-uw
+$$
+
+*A chemotaxis–consumption system with nutrient-dependent motility.*
+
+- **Oxygen consumption.** For the oxygen-consumption free-boundary problem we work with gradient-flow and variational-inequality formulations, and prove that the different models are equivalent ([SIAM J. Appl. Math. 2023](/file/paper/CFW23.pdf)).
+- **Chemotaxis.** Nonlinear stability of positive nonconstant steady states in chemotaxis–consumption systems with general motility on bounded domains in two and three dimensions, with exponential convergence ([arXiv:2609.34202](https://arxiv.org/abs/2609.34202)).
 - **Machine learning for PDEs.** A deep truncated FBSDE method that decouples forward and backward processes via gradient truncation and fictitious-play averaging, giving a robust solver for high-dimensional nonlinear PDEs and fully coupled FBSDEs with residual-based error estimates ([arXiv:2609.39616](https://arxiv.org/abs/2609.39616)).
+
+![Population perturbation relaxing to a nonconstant steady state](/images/research/chemotaxis-relaxation.png)
+*Chemotaxis–consumption: a population perturbation on an ellipse relaxes to a nonconstant steady state.*
+
+<p>
+<img src="/images/research/fbsde-error.png" alt="Relative error of the deep truncated FBSDE solver versus training iterations" style="width:70%; height:auto;">
+</p>
+*Relative error of the deep truncated FBSDE solver versus training iterations.*
 
 
 ## Publications and preprints (by year)
