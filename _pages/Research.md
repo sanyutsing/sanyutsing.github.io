@@ -79,11 +79,13 @@ $$
 - **Machine learning for PDEs.** A deep truncated FBSDE method that decouples forward and backward processes via gradient truncation and fictitious-play averaging, giving a robust solver for high-dimensional nonlinear PDEs and fully coupled FBSDEs with residual-based error estimates ([arXiv:2609.39616](https://arxiv.org/abs/2609.39616)).
 
 ![Population perturbation relaxing to a nonconstant steady state](/images/research/chemotaxis-relaxation.png)
+
 *Chemotaxis–consumption: a population perturbation on an ellipse relaxes to a nonconstant steady state.*
 
 <p>
 <img src="/images/research/fbsde-error.png" alt="Relative error of the deep truncated FBSDE solver versus training iterations" style="width:70%; height:auto;">
 </p>
+
 *Relative error of the deep truncated FBSDE solver versus training iterations.*
 
 
