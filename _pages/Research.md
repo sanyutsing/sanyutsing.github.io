@@ -201,8 +201,8 @@ I have refereed articles for publications in
 
 ## Academic advising 
 #### Current
-+ Haoran Wu (Phd student, since Fall 2024)
-+ Weiran Xiong (Phd student, since Fall 2026)
++ Haoran Wu (Phd student, since Fall 2024), co-supervised with Prof. Wei Lin
++ Weiran Xiong (Phd student, since Fall 2026), co-supervised with Prof. Yunzhang Li
 + Xuewen Lai (Phd student, since Fall 2026)
 + Yanqiao He (Phd student, since Fall 2027)
 + Jia Xiao (Phd student, since Fall 2027)
