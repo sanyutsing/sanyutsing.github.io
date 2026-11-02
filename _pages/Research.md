@@ -65,6 +65,8 @@ $$
 - **Low-regularity convergence.** Convergence can be proved in the same low-regularity space as the initial data, for SQG, Cahn–Hilliard, and related fluid models. The analysis and the schemes are designed to check each other ([J. Differ. Equ. 2026](/file/paper/CLW26.pdf)).
 - **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)).
 - **Fluid models in borderline spaces.** Unconditionally stable semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, and a Besov-based integration-by-parts framework with stability and convergence for the Navier–Stokes equations in borderline Besov spaces ([arXiv:2406.12320](https://arxiv.org/abs/2406.12320); [arXiv:2509.23192](https://arxiv.org/abs/2509.23192)).
+- **Oldroyd–B at critical regularity.** A sequential semi-implicit good-vorticity integrator for the 2D inviscid Oldroyd–B system with stress diffusion converges in the critical norms, including the endpoint, with an optimal algebraic rate when extra regularity is available ([arXiv:2610.41250](https://arxiv.org/abs/2610.41250)).
+
 
 ### 4. Mathematical biology and AI
 
@@ -121,6 +123,8 @@ $$
 8. Nonlinear Stability of Nonconstant Steady States in Chemotaxis--Consumption Systems with General Motility, joint with X. Lai and X. Song, preprint [arXiv:2609.34202](https://arxiv.org/abs/2609.34202).
 9. Deep Truncated FBSDE Method: A Robust Solver for High-Dimensional Nonlinear PDEs and Fully Coupled FBSDEs, joint with Y. Li and W. Xiong, preprint [arXiv:2609.39616](https://arxiv.org/abs/2609.39616).
 10. Global Effective Approximation and Scattering for a Wave--Klein--Gordon System, submitted.
+11. A Good-Vorticity Low-Regularity Integrator for the Inviscid Oldroyd--B System with Stress Diffusion, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2610.41250](https://arxiv.org/abs/2610.41250).
+ 
  
 
 
