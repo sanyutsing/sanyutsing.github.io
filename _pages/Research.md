@@ -46,6 +46,7 @@ $$
 *Interface coalescence in a phase-field model.*
 
 - **Capturing the dynamics.** Stable schemes give a quantitative description of Allen–Cahn / Cahn–Hilliard interface evolution, including splitting, merging, and other topological changes ([J. Sci. Comput. 2021](/file/paper/CLPW21.pdf)).
+- **Energy-stable evolution.** Semi-implicit schemes keep the energy decay while resolving Allen–Cahn and fractional Cahn–Hilliard interfaces over long times, including a second-order scheme for the 2D Allen–Cahn equation ([IMA J. Numer. Anal. 2026](/file/paper/C25.pdf); [BIT Numer. Math. 2025](/file/paper/C25b.pdf)).
 - **Crystal growth.** Related interface work includes a Sinc-type molecular beam epitaxy model ([arXiv:2106.16193](https://arxiv.org/abs/2106.16193)).
 
 <p>
