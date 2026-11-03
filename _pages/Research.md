@@ -62,7 +62,6 @@ $$
 
 *Same initial data, two spatial resolutions (N = 128 vs N = 1024). The scheme remains stable while resolving the singular structure.*
 
-- **Structure preservation.** Energy-stable semi-implicit schemes for phase-field models (Allen–Cahn, Cahn–Hilliard) that capture singularities and keep structural stability over long times ([IMA J. Numer. Anal. 2026](/file/paper/C25.pdf); [BIT Numer. Math. 2025](/file/paper/C25b.pdf)).
 - **Low-regularity convergence.** Convergence can be proved in the same low-regularity space as the initial data, for SQG, Cahn–Hilliard, and related fluid models. The analysis and the schemes are designed to check each other ([J. Differ. Equ. 2026](/file/paper/CLW26.pdf)).
 - **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)).
 - **Fluid models in borderline spaces.** Unconditionally stable semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, and a Besov-based integration-by-parts framework with stability and convergence for the Navier–Stokes equations in borderline Besov spaces ([arXiv:2406.12320](https://arxiv.org/abs/2406.12320)).
