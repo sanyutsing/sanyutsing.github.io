@@ -72,11 +72,12 @@ This seminar focuses on the **mathematical analysis and numerical methods for PD
 ## （拟）邀请报告人 / Prospective Speakers
 
 > [Cheng Yuan （袁诚）](https://cyuanchn.github.io/)
-> 
+> [Optimal Sobolev Estimates on Parabolic Equation with Critical Rough Coefficients](/file/slides/袁诚_10.31_roughheat.pdf) (October 2026)
 >
 > Zhen He （贺臻）
 > [AI for PDE: research workflow, with a Vlasov case](/file/slides/AI_for_PDE_English_Vlasov_Pharos_Dots.pdf) (November 2026)
 >
+> 
 > *持续更新中 / Updated regularly*
 
 如有意作报告，请通过下方联系方式与我们联系；我们也鼓励学生与博后在组会中尝试报告近期读到的有趣论文。
