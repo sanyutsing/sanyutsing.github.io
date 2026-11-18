@@ -64,9 +64,8 @@ $$
 
 - **Low-regularity convergence.** Convergence can be proved in the same low-regularity space as the initial data, for SQG, Cahn–Hilliard, and related fluid models. The analysis and the schemes are designed to check each other ([J. Differ. Equ. 2026](/file/paper/CLW26.pdf)).
 - **SQG at endpoint regularity.** A low-regularity integrator for SQG admits optimal error estimates when the solution has only endpoint regularity (to appear in [IMA J. Numer. Anal. 2026](/file/paper/SQG_final.pdf)).
-- **Fluid models in borderline spaces.** Unconditionally stable semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, and a Besov-based integration-by-parts framework with stability and convergence for the Navier–Stokes equations in borderline Besov spaces ([arXiv:2406.12320](https://arxiv.org/abs/2406.12320)).
+- **Fluid models in borderline spaces.** Unconditionally stable semi-implicit schemes for the incompressible Euler equations via the vanishing viscosity limit, and a Besov-based integration-by-parts framework with stability and convergence for the Navier–Stokes equations in borderline Besov spaces ([arXiv:2406.12320](https://arxiv.org/abs/2406.12320); [arXiv:2509.23192](https://arxiv.org/abs/2509.23192)).
 - **Oldroyd–B at critical regularity.** A sequential semi-implicit good-vorticity integrator for the 2D inviscid Oldroyd–B system with stress diffusion converges in the critical norms, including the endpoint, with an optimal algebraic rate when extra regularity is available ([arXiv:2610.41250](https://arxiv.org/abs/2610.41250)).
-
 
 ### 4. Mathematical biology and AI
 
@@ -81,13 +80,11 @@ $$
 - **Machine learning for PDEs.** A deep truncated FBSDE method that decouples forward and backward processes via gradient truncation and fictitious-play averaging, giving a robust solver for high-dimensional nonlinear PDEs and fully coupled FBSDEs with residual-based error estimates ([arXiv:2609.39616](https://arxiv.org/abs/2609.39616)).
 
 ![Population perturbation relaxing to a nonconstant steady state](/images/research/chemotaxis-relaxation.png)
-
 *Chemotaxis–consumption: a population perturbation on an ellipse relaxes to a nonconstant steady state.*
 
 <p>
 <img src="/images/research/fbsde-error.png" alt="Relative error of the deep truncated FBSDE solver versus training iterations" style="width:70%; height:auto;">
 </p>
-
 *Relative error of the deep truncated FBSDE solver versus training iterations.*
 
 
@@ -125,13 +122,14 @@ $$
 10. Global Effective Approximation and Scattering for a Wave--Klein--Gordon System, submitted.
 11. A Good-Vorticity Low-Regularity Integrator for the Inviscid Oldroyd--B System with Stress Diffusion, joint with Z. Luo, Z. Yang and C. Yuan, preprint [arXiv:2610.41250](https://arxiv.org/abs/2610.41250).
  
- 
 
 
 
 
 ## Academic activities
 #### conferences and talks 
+
++ CSIAM 系统与控制数学2026年学术研讨会（分组报告）@ Shanghai, China                                          2026/11
 
 + SNSA 2026 （分组召集人） @ Guilin, Guangxi, China                                                      2026/07
 
@@ -192,10 +190,13 @@ $$
 ## Academic Service
 I have refereed articles for publications in
 #### Numerical Analysis and Scientific Computing
-+ Mathematics of Computation, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, Applied Mathematics Letters, BIT Numerical Mathematics
++ Mathematics of Computation, IMA Journal of Numerical Analysis, Advances in Computational Mathematics, BIT Numerical Mathematics
 
 #### PDE and Analysis
-+ Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations, Applied Mathematics-A Journal of Chinese Universities
++ Acta Mathematica Scientia, Zeitschrift für Angewandte Mathematik und Mechanik, Communications in Analysis and Mechanics, Fractional Calculus and Applied Analysis, Dynamics of Partial Differential Equations
+
+#### Applied Mathematics
++ CSIAM Transactions on Applied Mathematics, Applied Mathematics Letters, Applied Mathematics-A Journal of Chinese Universities
 
 #### Mathematical Physics
 + Classical and Quantum Gravity, Physica Scripta
